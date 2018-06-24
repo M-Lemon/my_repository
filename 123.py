@@ -6,4 +6,8 @@ print(vsersion3)
 
 print(version4)
 
+
 print(verxaodi)
+
+print(verlaoban)
+
